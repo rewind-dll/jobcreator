@@ -116,7 +116,7 @@ The script automatically inserts records using **oxmysql**, meaning **no manual 
 # 📷 Screenshot
 
 <p align="center">
-  <img width="805" height="621" alt="Job Creator UI" src="https://github.com/user-attachments/assets/e64f6d78-a070-4f41-80c5-97c85aa817cf" />
+  <img width="805" height="621" alt="Job Creator UI" src="https://github.com/user-attachments/assets/6878eb49-44ee-4e8c-8de7-e41fdbbefe01" />
 </p>
 
 ---
